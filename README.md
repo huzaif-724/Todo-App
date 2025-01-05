@@ -1,4 +1,4 @@
-# Todo App
+![Screenshot 2025-01-05 184157](https://github.com/user-attachments/assets/08ef8ccf-6af8-45cc-b348-18161f46a6ca)# Todo App
 A simple and intuitive Todo Application built with React and Context API to help users efficiently manage their daily tasks. This app allows users to create, update, delete, and mark tasks as completed with a clean and responsive user interface.
 
 ## Features
@@ -47,4 +47,11 @@ npm start
 1. Add tasks using the input field.\
 2. Manage tasks by editing, marking them as completed, or deleting them.\
 3. Tasks are saved automatically in local storage.
+
+## Screenshots
+
+![Screenshot 2025-01-05 184157](https://github.com/user-attachments/assets/4d6cd0f6-d760-4be5-9cc4-606b4b4bddd9)
+
+![Screenshot 2025-01-05 184234](https://github.com/user-attachments/assets/9e8b327c-f6bd-431a-bd46-df8ff7aaafae)
+
 
