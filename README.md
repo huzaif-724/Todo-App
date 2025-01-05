@@ -3,10 +3,9 @@ A simple and intuitive Todo Application built with React and Context API to help
 
 ## Features
 
-📝 Add Tasks: Quickly add new tasks to your to-do list.
-
-✏️ Edit Tasks: Update existing tasks with ease. < br / > 
-❌ Delete Tasks: Remove tasks that are no longer needed. < br / > 
+📝 Add Tasks: Quickly add new tasks to your to-do list.\
+✏️ Edit Tasks: Update existing tasks with ease.<br />
+❌ Delete Tasks: Remove tasks that are no longer needed. <br />
 ✅ Mark as Completed: Toggle tasks as completed or incomplete. < br / > 
 💾 Local Storage: Saves your tasks in the browser's local storage for persistent task management. < br / > 
 📱 Responsive Design: Optimized for both desktop and mobile devices. < br / > 
