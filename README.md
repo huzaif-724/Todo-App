@@ -24,3 +24,20 @@ Data Persistence: Local Storage
 git clone https://github.com/huzaif-724/Todo-App.git
 
 ```
+
+2. Navigate to the project directory:
+```bash
+cd Todo-App
+
+```
+
+3. Install dependencies:
+```bash
+npm install
+
+```
+4. Start the development server
+```bash
+npm start
+
+```
