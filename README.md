@@ -15,4 +15,4 @@ A simple and intuitive Todo Application built with React and Context API to help
 Frontend: React.js\
 State Management: Context API\
 Styling: Tailwind CSS\
-Data Persistence: Local Storage\
+Data Persistence: Local Storage
