@@ -41,3 +41,10 @@ npm install
 npm start
 
 ```
+
+## Usage
+
+1. Add tasks using the input field.\
+2. Manage tasks by editing, marking them as completed, or deleting them.\
+3. Tasks are saved automatically in local storage.
+
