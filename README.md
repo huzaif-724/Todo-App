@@ -9,3 +9,10 @@ A simple and intuitive Todo Application built with React and Context API to help
 ✅ Mark as Completed: Toggle tasks as completed or incomplete.<br />
 💾 Local Storage: Saves your tasks in the browser's local storage for persistent task management.<br />
 📱 Responsive Design: Optimized for both desktop and mobile devices.<br />
+
+## Tech Stack
+
+Frontend: React.js\
+State Management: Context API\
+Styling: Tailwind CSS\
+Data Persistence: Local Storage\
