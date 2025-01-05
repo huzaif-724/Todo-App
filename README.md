@@ -16,3 +16,11 @@ Frontend: React.js\
 State Management: Context API\
 Styling: Tailwind CSS\
 Data Persistence: Local Storage
+
+## Getting Started
+
+1. Clone the repository:
+```bash
+git clone https://github.com/huzaif-724/Todo-App.git
+
+```
